@@ -2,8 +2,8 @@
 
 int main(){
 
-    int tabuleiro[10][10] = {0}; // Tabuleiro 10x10 inicializado com 0 (água)
-
+    // Tabuleiro 10x10 inicializado com 0 (água)
+    int tabuleiro[10][10] = {0};
     int navio = 3;     // Valor que representa o navio
     int tam_navio = 3; // Tamanho do navio
 
